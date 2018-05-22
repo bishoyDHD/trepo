@@ -1,1 +1,6 @@
 This is simply a file for git Man
+
+
+some lines
+some lines
+some lines
